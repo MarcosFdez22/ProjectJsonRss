@@ -1,0 +1,19 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Languages Programming",
+    "home_page_url": "https://example.org/",
+    "feed_url": "https://marcosfdez22.github.io/ProjectJsonRss/feed/feed.json",
+    "items": [
+    {
+    "id": "2",
+    "content_text": "This is python",
+    "url": "https://marcosfdez22.github.io/ProjectJsonRss/java.html"
+    },
+    {
+    "id": "1",
+    "content_html": "<p>Hello, Java!</p>",
+    "url": "https://marcosfdez22.github.io/ProjectJsonRss/python.html"
+    }
+    ]
+   }
+   
