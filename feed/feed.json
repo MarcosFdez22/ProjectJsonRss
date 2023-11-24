@@ -6,12 +6,12 @@
     "items": [
     {
     "id": "2",
-    "content_text": "This is python",
+    "content_text": "This is Java",
     "url": "https://marcosfdez22.github.io/ProjectJsonRss/java.html"
     },
     {
     "id": "1",
-    "content_html": "<p>Hello, Java!</p>",
+    "content_html": "This is Python",
     "url": "https://marcosfdez22.github.io/ProjectJsonRss/python.html"
     }
     ]
